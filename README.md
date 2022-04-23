@@ -17,4 +17,4 @@ autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, mu
 
 ## Naive Bayes  
 * Requirement: numpy, csv, pandas, math, sklearn, seaborn and product  
-* Make sure your training set(train.csv) and testing set(test.csv) in the correct root.  
+* Make sure your training set(train.csv) and testing set(test.csv) are in the correct root directory.  
