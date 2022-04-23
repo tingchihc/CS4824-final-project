@@ -1,5 +1,8 @@
 # CS4824-final-project
 
+## Methods
+We use Naive Bayes, Logistic Regression, SVM and NN to predict the news category.  
+
 ## Dataset
 Our dataset is from MIcrosoft News Dataset (MIND) (https://msnews.github.io/).  
 We extract the news title, abstract and category from MIND.  
