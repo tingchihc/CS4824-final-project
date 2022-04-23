@@ -16,3 +16,4 @@ autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, mu
 
 
 ## Naive Bayes  
+* Requirement: numpy, csv, pandas, math, sklearn, seaborn and product  
