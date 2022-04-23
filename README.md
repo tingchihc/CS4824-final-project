@@ -1,5 +1,5 @@
 # CS4824-final-project
-## Members:  
+## G14 Members:  
 Tingchih Chen, Huayu Liang, Zoe Zheng and Yilin Liu  
 
 ## Methods
