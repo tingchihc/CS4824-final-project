@@ -12,4 +12,4 @@ We have 81,222 news in the training set(train.csv) and 20,305 news in the testin
 News(MLB's most problematic contracts: Miguel Cabrera's massive deal leads AL Central issues) => Category(sports)  
 
 ## 16 Categories  
-Categories: autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, music, news, northamerica, sports, travel, tv, video, weather.
+autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, music, news, northamerica, sports, travel, tv, video, weather.  
