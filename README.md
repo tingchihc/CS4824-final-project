@@ -13,3 +13,6 @@ News(MLB's most problematic contracts: Miguel Cabrera's massive deal leads AL Ce
 
 ## 16 Categories  
 autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, music, news, northamerica, sports, travel, tv, video, weather.  
+
+
+## Naive Bayes  
