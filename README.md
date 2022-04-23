@@ -1,4 +1,6 @@
 # CS4824-final-project
+## Members:  
+Ting-chih Chen, Huayu Liang, Zoe Zheng, Yilin Liu  
 
 ## Methods
 We use Naive Bayes, Logistic Regression, SVM and NN to predict the news category.  
