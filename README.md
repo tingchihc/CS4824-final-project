@@ -23,7 +23,6 @@ autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, mu
 * Then, you can run Naive Bayes.ipynb  
 
 ## Logistic Regression  
-* Requirement: numpy, pandas, sklearn, matplotlib, 
-* No other dependencies needed,
+* Requirement: numpy, pandas, sklearn, matplotlib, seaborn
 * Make sure the training set(train.csv) and testing set(test.csv) are in the correct root directory,  
 * Then, you can run Logistic_Regression.ipynb  
