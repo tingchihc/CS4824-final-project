@@ -31,3 +31,5 @@ autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, mu
 * Requirement: numpy, pandas, sklearn, matplotlib, seaborn
 * Make sure the training set(train.csv) and testing set(test.csv) are in the correct root directory,  
 * Then, you can run SVM.ipynb  
+
+## Neural Network  
