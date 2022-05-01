@@ -1,4 +1,4 @@
-# CS4824-final-project
+# Virginia Tech CS4824-final-project
 ## G14 Members:  
 Tingchih Chen, Huayu Liang, Zoe Zheng and Yilin Liu  
 
