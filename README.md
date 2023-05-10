@@ -1,7 +1,7 @@
 # Virginia Tech CS4824-final-project
 
 [Report](https://github.com/ting-chih/CS4824-final-project/blob/main/final%20report.pdf)  
-[Slides]()
+[Slides](https://github.com/ting-chih/CS4824-final-project/blob/main/final_presentation.pptx.pdf)
 
 ## G14 Members:  
 Tingchih Chen, Huayu Liang, Zoe Zheng and Yilin Liu  
