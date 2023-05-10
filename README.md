@@ -1,6 +1,6 @@
 # Virginia Tech CS4824-final-project
 
-[Report]()  
+[Report](https://github.com/ting-chih/CS4824-final-project/blob/main/final%20report.pdf)  
 [Slides]()
 
 ## G14 Members:  
