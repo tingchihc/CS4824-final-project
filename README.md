@@ -25,6 +25,7 @@ autos, entertainment, finance, foodanddrink, health, kids, lifestyle, movies, mu
 * Requirement: numpy, csv, pandas, math, sklearn, seaborn and product  
 * Make sure your training set(train.csv) and testing set(test.csv) are in the correct root directory.  
 * Then, you can run Naive Bayes.ipynb  
+* Assessed the model’s performance using F1 score, accuracy, and confusion matrix, achieving a 63% accuracy.  
 
 ## Logistic Regression  
 * Requirement: numpy, pandas, sklearn, matplotlib, seaborn
